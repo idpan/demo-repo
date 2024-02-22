@@ -1,7 +1,3 @@
-# demo-repo
-
-some Header for project
-
-## description
-
-some description for project
+#Demo
+##Daftar belanja
+datar belanja yang berisi daftar belanjaan
