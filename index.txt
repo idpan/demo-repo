@@ -1,0 +1,6 @@
+ini adalah test file
+--Daftar belanja
+1.garam
+2.bawang
+3.ayam
+4.beras
